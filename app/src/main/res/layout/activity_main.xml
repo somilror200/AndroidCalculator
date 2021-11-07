@@ -206,7 +206,7 @@
             android:layout_height="match_parent"
             android:id="@+id/btnEqual"
             android:layout_weight="1"
-            android:onClick="onDigit"
+            android:onClick="onEqual"
             android:text="@string/equals" />
 
     </LinearLayout>
